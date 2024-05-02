@@ -1,0 +1,89 @@
+body {
+    background-image: url("black.jpg");
+    background-size: cover;
+    border-collapse: collapse;
+  }
+  h1{
+    color:white;
+  }
+  table {
+    width: 80%;
+    border-collapse: collapse;
+    
+  }
+  
+  th {
+    background-color: #c7c5c5;
+    color: #000;
+    font-weight: bold;
+    text-align: left;
+    padding: 8px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  /* style4.css */
+form {
+margin-top: 20px;
+}
+
+form label {
+display: block;
+margin-bottom: 8px;
+font-weight: bold;
+}
+
+form input[type="text"] {
+width: 30%;
+padding: 8px;
+margin-bottom: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+
+form input[type="submit"] {
+padding: 10px 20px;
+background-color: #08f24a;
+color: #fff;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
+h2 {
+color: #f6f8fb;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+form {
+margin-top: 20px;
+}
+
+form label {
+display: block;
+margin-bottom: 8px;
+font-weight: bold;
+color: #ecf1f6; 
+}
+p{
+color: #ccc;
+}
+
+
+table td {
+text-align: left;
+padding: 10px;
+font-size: 14px;
+color: #f3efef; 
+}
+
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 0px;
+}

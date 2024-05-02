@@ -1,0 +1,56 @@
+body {
+    background-image: url("black1.jpg");
+    background-size: cover;
+    border-collapse: collapse;
+  }
+  
+
+  .custom-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid hwb(197 96% 2%);
+    padding: 8px;
+    text-align: left;
+    width: 20%; 
+    color: azure;
+  }
+
+  table.custom-table th{
+    font-weight: bold;
+    color:#090909;
+  background-color: #c3c7c4;
+}
+
+.form-field select, .form-field input[type="text"] {
+  width: 300px;
+  padding: 5px;
+  font-weight: bold;
+  color:#090909;
+}
+
+.form-field input[type="submit"] {
+  width: auto;
+  padding: 5px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 2px;
+}
+
+label[for="protocol"] {
+  color:aliceblue;
+  font-size: 18px; 
+  font-weight: bold; 
+  background-color: #090909;
+}
+.back-button a{
+  
+    color:#f6f8f9;
+    font-weight:bold;
+  }

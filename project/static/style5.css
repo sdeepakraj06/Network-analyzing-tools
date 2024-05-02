@@ -1,0 +1,23 @@
+body {
+    background-image: url("black.jpg");
+    background-size: cover;
+    border-collapse: collapse;
+  }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;    
+        }
+
+        th, td {
+            border: 1px solid #edebeb;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #c4c9c9;
+            color: rgb(8, 8, 8);
+            font-weight: bold;
+        }
+    

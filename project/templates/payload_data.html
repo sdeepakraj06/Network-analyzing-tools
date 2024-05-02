@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+         <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style7.css')}}">
+    </head>
+<body>
+<h1>Payload Data between {{ src_ip }} and {{ dest_ip }}</h1>
+{% if payload_data %}
+<ul>
+    {% for payload in payload_data %}
+    <li>{{ payload }}</li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>No payload data found between the specified IPs.</p>
+{% endif %}
+<br></br>
+<footer class="footer mt-auto py-3 bg-light text-dark">
+
+    <div class="container text-center">
+        <span class="text-muted">PCAP Analyzer © 2023. All rights reserved.</span>
+      </div>
+    </footer>
+</body>
+</html>

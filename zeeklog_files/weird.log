@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2024-04-03-22-32-12
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1700809339.820711	-	10.244.2.183	0	162.213.33.48	0	bad_IP_checksum	-	F	zeek	IP
+1700809406.154750	CW1ana45QUfZWGUvt6	10.244.3.8	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-	F	zeek	DNS
+#close	2024-04-03-22-32-13

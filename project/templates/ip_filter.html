@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style3.css')}}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">PCAP DATA</a>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('home')}}">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('redirect_to_Summarization')}}">Summarization</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_protocol_page')}}">Protocol Filter</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_ip_page')}}">IP Filter</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_both_ip')}}">IP Visualization</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('payload_data')}}">Data</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div class="filter-form">
+    <form method="POST" action="/filter_ip">
+        <div class="form-field">
+            <label for="ip_type">Select IP Type:</label>
+            <select name="ip_type" id="ip_type">
+                <option value="source">Source IP</option>
+                <option value="destination">Destination IP</option>
+            </select>
+        </div>
+        <div class="form-field">
+            <label for="ip_address">Enter IP Address:</label>
+            <input type="text" name="ip_address" id="ip_address">
+        </div>
+        <div class="form-field">
+            <input type="submit" value="Filter">
+        </div>
+    </form>
+</div>
+
+{% if filtered_ips %}
+<div class="ip-list">
+    <h2>{{ ip_type|capitalize }} IP: {{ ip_address }}</h2>
+    <table>
+        <tr>
+            <th>Destination IP Address</th>
+           
+        </tr>
+        {% for ip in filtered_ips %}
+        <tr>
+            <td><a href="{{ url_for('ip_details', dest_ip=ip, src_ip=ip_address) }}">{{ ip }}</a></td>
+           
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endif %}
+<br></br>
+<footer class="footer mt-auto py-3 bg-light text-dark">
+
+    <div class="container text-center">
+        <span class="text-muted">PCAP Analyzer © 2023. All rights reserved.</span>
+      </div>
+    </footer>
+
+</body>
+</html>

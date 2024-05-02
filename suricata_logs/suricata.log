@@ -1,0 +1,19 @@
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: cpu: CPUs/cores online: 4
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: suricata: Setting engine mode to IDS mode by default
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: exception-policy: master exception-policy set to: auto
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: logopenfile: fast output device (regular) initialized: fast.log
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: logopenfile: stats output device (regular) initialized: stats.log
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Warning: detect: 1 rule files specified, but no rules were loaded!
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[37650 - RX#01] 2024-04-03 22:32:13 Info: pcap: Starting file run for /home/deeepak/Downloads/allnewproject/Likhitha WBL/project/uploads/2023-11-24.pcap
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[37650 - RX#01] 2024-04-03 22:32:13 Info: checksum: More than 1/10th of packets have an invalid checksum, assuming checksum offloading is used (127/1000)
+[37650 - RX#01] 2024-04-03 22:32:13 Info: pcap: pcap file /home/deeepak/Downloads/allnewproject/Likhitha WBL/project/uploads/2023-11-24.pcap end of file reached (pcap err code 0)
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Notice: suricata: Signal Received.  Stopping engine.
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: suricata: time elapsed 0.373s
+[37650 - RX#01] 2024-04-03 22:32:13 Notice: pcap: read 1 file, 16382 packets, 12197786 bytes
+[37649 - Suricata-Main] 2024-04-03 22:32:13 Info: counters: Alerts: 0

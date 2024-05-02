@@ -1,0 +1,1021 @@
+11/24-12:32:19.802088  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.151:34963 -> 239.255.255.250:1900
+11/24-12:32:19.938195  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:61100 -> 239.255.255.250:1900
+11/24-12:32:19.972773  [**] [1:449:6] ICMP Time-To-Live Exceeded in Transit [**] [Classification: Misc activity] [Priority: 3] {ICMP} 91.189.93.200 -> 10.244.2.183
+11/24-12:32:20.215262  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.162:48955 -> 239.255.255.250:1900
+11/24-12:32:20.295213  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:56350 -> 239.255.255.250:1900
+11/24-12:32:20.568915  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:41939 -> 239.255.255.250:1900
+11/24-12:32:20.804179  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54307 -> 239.255.255.250:1900
+11/24-12:32:20.804667  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54309 -> 239.255.255.250:1900
+11/24-12:32:20.939618  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:61100 -> 239.255.255.250:1900
+11/24-12:32:21.047637  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:21.215608  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.162:48955 -> 239.255.255.250:1900
+11/24-12:32:21.272276  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52746 -> 239.255.255.250:1900
+11/24-12:32:21.569805  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:41939 -> 239.255.255.250:1900
+11/24-12:32:21.661306  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:52763 -> 239.255.255.250:1900
+11/24-12:32:21.784077  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:32:21.805715  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54307 -> 239.255.255.250:1900
+11/24-12:32:21.805715  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54309 -> 239.255.255.250:1900
+11/24-12:32:21.940904  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:61100 -> 239.255.255.250:1900
+11/24-12:32:22.215791  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.162:48955 -> 239.255.255.250:1900
+11/24-12:32:22.570952  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:41939 -> 239.255.255.250:1900
+11/24-12:32:22.668564  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:52763 -> 239.255.255.250:1900
+11/24-12:32:22.815505  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54309 -> 239.255.255.250:1900
+11/24-12:32:22.815505  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54307 -> 239.255.255.250:1900
+11/24-12:32:22.820876  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:48571 -> 239.255.255.250:1900
+11/24-12:32:22.941794  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:61100 -> 239.255.255.250:1900
+11/24-12:32:23.572498  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:41939 -> 239.255.255.250:1900
+11/24-12:32:23.663631  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:52763 -> 239.255.255.250:1900
+11/24-12:32:23.817798  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:48571 -> 239.255.255.250:1900
+11/24-12:32:23.824428  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54309 -> 239.255.255.250:1900
+11/24-12:32:23.824428  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:54307 -> 239.255.255.250:1900
+11/24-12:32:23.903780  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.242:35191 -> 239.255.255.250:1900
+11/24-12:32:23.903876  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} fe80::b1f7:1599:3ec:1c42:51256 -> ff02::c:1900
+11/24-12:32:24.268522  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52746 -> 239.255.255.250:1900
+11/24-12:32:24.664335  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:52763 -> 239.255.255.250:1900
+11/24-12:32:24.784106  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:32:24.818716  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:48571 -> 239.255.255.250:1900
+11/24-12:32:25.027955  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:25.565079  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:54761 -> 239.255.255.250:1900
+11/24-12:32:25.819014  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:48571 -> 239.255.255.250:1900
+11/24-12:32:26.206960  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:53102 -> 239.255.255.250:1900
+11/24-12:32:26.502087  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:41031 -> 239.255.255.250:1900
+11/24-12:32:26.567723  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:54761 -> 239.255.255.250:1900
+11/24-12:32:27.192465  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40960 -> 239.255.255.250:1900
+11/24-12:32:27.210908  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:53102 -> 239.255.255.250:1900
+11/24-12:32:27.261005  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52746 -> 239.255.255.250:1900
+11/24-12:32:27.506951  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:41031 -> 239.255.255.250:1900
+11/24-12:32:27.570397  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:54761 -> 239.255.255.250:1900
+11/24-12:32:27.784752  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:32:27.799065  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:28.193721  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40960 -> 239.255.255.250:1900
+11/24-12:32:28.223205  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:53102 -> 239.255.255.250:1900
+11/24-12:32:28.514747  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:41031 -> 239.255.255.250:1900
+11/24-12:32:28.570411  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:54761 -> 239.255.255.250:1900
+11/24-12:32:29.196627  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40960 -> 239.255.255.250:1900
+11/24-12:32:29.235066  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:53102 -> 239.255.255.250:1900
+11/24-12:32:29.523461  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:41031 -> 239.255.255.250:1900
+11/24-12:32:30.047164  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:30.197936  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40960 -> 239.255.255.250:1900
+11/24-12:32:30.261671  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52746 -> 239.255.255.250:1900
+11/24-12:32:31.923596  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:32.415374  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:57817 -> 239.255.255.250:1900
+11/24-12:32:32.428599  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:57817 -> 239.255.255.250:1900
+11/24-12:32:32.430071  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:57817 -> 239.255.255.250:1900
+11/24-12:32:32.431661  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42046 -> 239.255.255.250:1900
+11/24-12:32:32.536635  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:35624 -> 239.255.255.250:1900
+11/24-12:32:32.537146  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:35624 -> 239.255.255.250:1900
+11/24-12:32:32.537146  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:35624 -> 239.255.255.250:1900
+11/24-12:32:32.538026  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:49461 -> 239.255.255.250:1900
+11/24-12:32:32.573116  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:55357 -> 239.255.255.250:1900
+11/24-12:32:32.573116  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:42364 -> 239.255.255.250:1900
+11/24-12:32:32.881882  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:60059 -> 239.255.255.250:1900
+11/24-12:32:32.930227  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:32.954622  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:33.050359  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:33.096661  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:33.157439  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59368 -> 239.255.255.250:1900
+11/24-12:32:33.576085  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:55357 -> 239.255.255.250:1900
+11/24-12:32:33.576085  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:42364 -> 239.255.255.250:1900
+11/24-12:32:33.891308  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:60059 -> 239.255.255.250:1900
+11/24-12:32:34.159022  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59368 -> 239.255.255.250:1900
+11/24-12:32:34.576471  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:55357 -> 239.255.255.250:1900
+11/24-12:32:34.576471  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:42364 -> 239.255.255.250:1900
+11/24-12:32:34.742485  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:34.887857  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:60059 -> 239.255.255.250:1900
+11/24-12:32:35.160868  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59368 -> 239.255.255.250:1900
+11/24-12:32:35.578984  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:55357 -> 239.255.255.250:1900
+11/24-12:32:35.578984  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:42364 -> 239.255.255.250:1900
+11/24-12:32:35.890132  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:60059 -> 239.255.255.250:1900
+11/24-12:32:36.091482  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.096639  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.108227  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.115376  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.130612  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.135331  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.152916  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.163429  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59368 -> 239.255.255.250:1900
+11/24-12:32:36.175209  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.184824  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.189586  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.193272  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:36.507124  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:50530 -> 239.255.255.250:1900
+11/24-12:32:36.960321  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:64203 -> ff02::c:1900
+11/24-12:32:36.980676  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:37.027215  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:37.509582  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:50530 -> 239.255.255.250:1900
+11/24-12:32:37.792579  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:32982 -> 239.255.255.250:1900
+11/24-12:32:38.150199  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:59551 -> 239.255.255.250:1900
+11/24-12:32:38.514054  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:50530 -> 239.255.255.250:1900
+11/24-12:32:38.793580  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:32982 -> 239.255.255.250:1900
+11/24-12:32:39.153157  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:59551 -> 239.255.255.250:1900
+11/24-12:32:39.428235  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:39585 -> 239.255.255.250:1900
+11/24-12:32:39.508651  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:41145 -> 239.255.255.250:1900
+11/24-12:32:39.515178  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:50530 -> 239.255.255.250:1900
+11/24-12:32:39.612278  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:39.673921  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:51102 -> 239.255.255.250:1900
+11/24-12:32:39.794331  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:32982 -> 239.255.255.250:1900
+11/24-12:32:39.879218  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:64203 -> ff02::c:1900
+11/24-12:32:39.882501  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:39.908150  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:40.171642  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:59551 -> 239.255.255.250:1900
+11/24-12:32:40.430611  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:39585 -> 239.255.255.250:1900
+11/24-12:32:40.509930  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:41145 -> 239.255.255.250:1900
+11/24-12:32:40.628791  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:61820 -> 239.255.255.250:1900
+11/24-12:32:40.676162  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:51102 -> 239.255.255.250:1900
+11/24-12:32:40.794657  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:32982 -> 239.255.255.250:1900
+11/24-12:32:41.193144  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:59551 -> 239.255.255.250:1900
+11/24-12:32:41.268506  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:62970 -> 239.255.255.250:1900
+11/24-12:32:41.433787  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:39585 -> 239.255.255.250:1900
+11/24-12:32:41.510937  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:41145 -> 239.255.255.250:1900
+11/24-12:32:41.630406  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:61820 -> 239.255.255.250:1900
+11/24-12:32:41.678279  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:51102 -> 239.255.255.250:1900
+11/24-12:32:42.286676  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:62970 -> 239.255.255.250:1900
+11/24-12:32:42.435074  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:39585 -> 239.255.255.250:1900
+11/24-12:32:42.498240  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:65319 -> 239.255.255.250:1900
+11/24-12:32:42.514023  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:41145 -> 239.255.255.250:1900
+11/24-12:32:42.542506  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:42.567950  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:42.625848  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:42.631787  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:61820 -> 239.255.255.250:1900
+11/24-12:32:42.679797  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:51102 -> 239.255.255.250:1900
+11/24-12:32:42.810621  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:32:43.055567  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:48480 -> 239.255.255.250:1900
+11/24-12:32:43.066924  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:48480 -> 239.255.255.250:1900
+11/24-12:32:43.075909  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:48480 -> 239.255.255.250:1900
+11/24-12:32:43.077746  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:50622 -> 239.255.255.250:1900
+11/24-12:32:43.287713  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:62970 -> 239.255.255.250:1900
+11/24-12:32:43.351525  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:48097 -> 239.255.255.250:1900
+11/24-12:32:43.352016  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:48097 -> 239.255.255.250:1900
+11/24-12:32:43.352016  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:48097 -> 239.255.255.250:1900
+11/24-12:32:43.352894  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:39730 -> 239.255.255.250:1900
+11/24-12:32:43.500095  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:65319 -> 239.255.255.250:1900
+11/24-12:32:43.628416  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:62163 -> 239.255.255.250:1900
+11/24-12:32:43.633247  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:61820 -> 239.255.255.250:1900
+11/24-12:32:44.275802  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60128 -> 239.255.255.250:1900
+11/24-12:32:44.288705  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:62970 -> 239.255.255.250:1900
+11/24-12:32:44.290507  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60130 -> 239.255.255.250:1900
+11/24-12:32:44.306795  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60132 -> 239.255.255.250:1900
+11/24-12:32:44.320938  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60134 -> 239.255.255.250:1900
+11/24-12:32:44.501385  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:65319 -> 239.255.255.250:1900
+11/24-12:32:44.628898  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:62163 -> 239.255.255.250:1900
+11/24-12:32:45.158929  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:55548 -> 239.255.255.250:1900
+11/24-12:32:45.276945  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60128 -> 239.255.255.250:1900
+11/24-12:32:45.291106  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60130 -> 239.255.255.250:1900
+11/24-12:32:45.306907  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60132 -> 239.255.255.250:1900
+11/24-12:32:45.322905  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60134 -> 239.255.255.250:1900
+11/24-12:32:45.328002  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.242:59715 -> 239.255.255.250:1900
+11/24-12:32:45.328123  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::b1f7:1599:3ec:1c42:49731 -> ff02::c:1900
+11/24-12:32:45.328134  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.242:59715 -> 255.255.255.255:1900
+11/24-12:32:45.458985  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:41714 -> 239.255.255.250:1900
+11/24-12:32:45.503533  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:65319 -> 239.255.255.250:1900
+11/24-12:32:45.629763  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:62163 -> 239.255.255.250:1900
+11/24-12:32:45.633098  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:45.810150  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:32:46.167704  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:55548 -> 239.255.255.250:1900
+11/24-12:32:46.278470  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60128 -> 239.255.255.250:1900
+11/24-12:32:46.291607  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60130 -> 239.255.255.250:1900
+11/24-12:32:46.308002  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60132 -> 239.255.255.250:1900
+11/24-12:32:46.323173  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60134 -> 239.255.255.250:1900
+11/24-12:32:46.466693  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:41714 -> 239.255.255.250:1900
+11/24-12:32:46.509968  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64757 -> 239.255.255.250:1900
+11/24-12:32:46.630782  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:62163 -> 239.255.255.250:1900
+11/24-12:32:46.674196  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:41957 -> 239.255.255.250:1900
+11/24-12:32:47.166452  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:55548 -> 239.255.255.250:1900
+11/24-12:32:47.280929  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60128 -> 239.255.255.250:1900
+11/24-12:32:47.291929  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60130 -> 239.255.255.250:1900
+11/24-12:32:47.308964  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60132 -> 239.255.255.250:1900
+11/24-12:32:47.324481  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:60134 -> 239.255.255.250:1900
+11/24-12:32:47.477822  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:41714 -> 239.255.255.250:1900
+11/24-12:32:47.518723  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64757 -> 239.255.255.250:1900
+11/24-12:32:47.597448  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:59835 -> 239.255.255.250:1900
+11/24-12:32:47.675076  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:41957 -> 239.255.255.250:1900
+11/24-12:32:47.899958  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:47.960527  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:61907 -> 239.255.255.250:1900
+11/24-12:32:48.169730  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:55548 -> 239.255.255.250:1900
+11/24-12:32:48.476982  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:41714 -> 239.255.255.250:1900
+11/24-12:32:48.521695  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64757 -> 239.255.255.250:1900
+11/24-12:32:48.659184  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:48.675804  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:41957 -> 239.255.255.250:1900
+11/24-12:32:48.810076  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:32:48.969363  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:61907 -> 239.255.255.250:1900
+11/24-12:32:48.988878  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:60777 -> 239.255.255.250:1900
+11/24-12:32:49.230596  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59220 -> 239.255.255.250:1900
+11/24-12:32:49.242730  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59221 -> 239.255.255.250:1900
+11/24-12:32:49.298823  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:62222 -> 239.255.255.250:1900
+11/24-12:32:49.534732  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64757 -> 239.255.255.250:1900
+11/24-12:32:49.676176  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:41957 -> 239.255.255.250:1900
+11/24-12:32:49.869509  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:57274 -> 239.255.255.250:1900
+11/24-12:32:49.964922  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:61907 -> 239.255.255.250:1900
+11/24-12:32:49.990753  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:60777 -> 239.255.255.250:1900
+11/24-12:32:50.208496  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ffa7:4189
+11/24-12:32:50.223958  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+11/24-12:32:50.233901  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59220 -> 239.255.255.250:1900
+11/24-12:32:50.245271  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59221 -> 239.255.255.250:1900
+11/24-12:32:50.271461  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:50.299586  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:62222 -> 239.255.255.250:1900
+11/24-12:32:50.611064  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:59835 -> 239.255.255.250:1900
+11/24-12:32:50.614928  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:63811 -> 239.255.255.250:1900
+11/24-12:32:50.870916  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:57274 -> 239.255.255.250:1900
+11/24-12:32:50.966654  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:61907 -> 239.255.255.250:1900
+11/24-12:32:50.990670  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:60777 -> 239.255.255.250:1900
+11/24-12:32:51.236150  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59220 -> 239.255.255.250:1900
+11/24-12:32:51.247716  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59221 -> 239.255.255.250:1900
+11/24-12:32:51.302543  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:62222 -> 239.255.255.250:1900
+11/24-12:32:51.368594  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:51.615028  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:63811 -> 239.255.255.250:1900
+11/24-12:32:51.673464  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64206 -> 239.255.255.250:1900
+11/24-12:32:51.873293  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:57274 -> 239.255.255.250:1900
+11/24-12:32:51.874839  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42661 -> 239.255.255.250:1900
+11/24-12:32:51.875326  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42661 -> 239.255.255.250:1900
+11/24-12:32:51.898328  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42661 -> 239.255.255.250:1900
+11/24-12:32:51.901598  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:55735 -> 239.255.255.250:1900
+11/24-12:32:51.992659  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:60777 -> 239.255.255.250:1900
+11/24-12:32:52.027176  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:45940 -> 239.255.255.250:1900
+11/24-12:32:52.027176  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:45940 -> 239.255.255.250:1900
+11/24-12:32:52.027176  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:45940 -> 239.255.255.250:1900
+11/24-12:32:52.027176  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44443 -> 239.255.255.250:1900
+11/24-12:32:52.239012  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59220 -> 239.255.255.250:1900
+11/24-12:32:52.242428  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:52.249600  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:59221 -> 239.255.255.250:1900
+11/24-12:32:52.304452  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:62222 -> 239.255.255.250:1900
+11/24-12:32:52.617662  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:63811 -> 239.255.255.250:1900
+11/24-12:32:52.772429  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:52.875340  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:57274 -> 239.255.255.250:1900
+11/24-12:32:53.605258  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:59835 -> 239.255.255.250:1900
+11/24-12:32:53.620271  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:63811 -> 239.255.255.250:1900
+11/24-12:32:53.904454  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.242:35191 -> 239.255.255.250:1900
+11/24-12:32:53.904550  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} fe80::b1f7:1599:3ec:1c42:51256 -> ff02::c:1900
+11/24-12:32:54.025908  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57311 -> 239.255.255.250:1900
+11/24-12:32:54.074118  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57327 -> 239.255.255.250:1900
+11/24-12:32:54.375195  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.211:49154 -> 239.255.255.250:1900
+11/24-12:32:55.029588  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57311 -> 239.255.255.250:1900
+11/24-12:32:55.075933  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57327 -> 239.255.255.250:1900
+11/24-12:32:55.375262  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.211:49154 -> 239.255.255.250:1900
+11/24-12:32:55.921849  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.156:60388 -> 239.255.255.250:1900
+11/24-12:32:56.034090  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57311 -> 239.255.255.250:1900
+11/24-12:32:56.078744  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57327 -> 239.255.255.250:1900
+11/24-12:32:56.375692  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.211:49154 -> 239.255.255.250:1900
+11/24-12:32:56.493357  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.155:58113 -> 239.255.255.250:1900
+11/24-12:32:56.619989  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64758 -> 239.255.255.250:1900
+11/24-12:32:56.923266  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.156:60388 -> 239.255.255.250:1900
+11/24-12:32:57.034753  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57311 -> 239.255.255.250:1900
+11/24-12:32:57.080096  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.10:57327 -> 239.255.255.250:1900
+11/24-12:32:57.376124  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.211:49154 -> 239.255.255.250:1900
+11/24-12:32:57.416473  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:57.494238  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.155:58113 -> 239.255.255.250:1900
+11/24-12:32:57.628953  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64758 -> 239.255.255.250:1900
+11/24-12:32:57.680861  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:56359 -> 239.255.255.250:1900
+11/24-12:32:57.926745  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.156:60388 -> 239.255.255.250:1900
+11/24-12:32:58.221909  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.252:60007 -> 239.255.255.250:1900
+11/24-12:32:58.372524  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.181:45834 -> 239.255.255.250:1900
+11/24-12:32:58.495574  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.155:58113 -> 239.255.255.250:1900
+11/24-12:32:58.642112  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64758 -> 239.255.255.250:1900
+11/24-12:32:58.683934  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:56359 -> 239.255.255.250:1900
+11/24-12:32:58.748984  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:32:58.925231  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.156:60388 -> 239.255.255.250:1900
+11/24-12:32:59.219257  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ff3e:7e5a
+11/24-12:32:59.223257  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.1:51865 -> 239.255.255.250:1900
+11/24-12:32:59.223861  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.252:60007 -> 239.255.255.250:1900
+11/24-12:32:59.373660  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.181:45834 -> 239.255.255.250:1900
+11/24-12:32:59.431490  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:32:59.499158  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.155:58113 -> 239.255.255.250:1900
+11/24-12:32:59.646741  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:64758 -> 239.255.255.250:1900
+11/24-12:32:59.684978  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:56359 -> 239.255.255.250:1900
+11/24-12:32:59.782152  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.190:56822 -> 239.255.255.250:1900
+11/24-12:32:59.873114  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.137:55835 -> 239.255.255.250:1900
+11/24-12:33:00.035379  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:00.223787  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.1:51865 -> 239.255.255.250:1900
+11/24-12:33:00.225307  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.252:60007 -> 239.255.255.250:1900
+11/24-12:33:00.304578  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52216 -> 239.255.255.250:1900
+11/24-12:33:00.306703  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:56013 -> 239.255.255.250:1900
+11/24-12:33:00.373785  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.181:45834 -> 239.255.255.250:1900
+11/24-12:33:00.499543  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:00.596309  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.172:52344 -> 239.255.255.250:1900
+11/24-12:33:00.687674  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:56359 -> 239.255.255.250:1900
+11/24-12:33:00.784875  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.190:56822 -> 239.255.255.250:1900
+11/24-12:33:00.873832  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.137:55835 -> 239.255.255.250:1900
+11/24-12:33:01.224578  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.1:51865 -> 239.255.255.250:1900
+11/24-12:33:01.226563  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.252:60007 -> 239.255.255.250:1900
+11/24-12:33:01.305628  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:56013 -> 239.255.255.250:1900
+11/24-12:33:01.305963  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52216 -> 239.255.255.250:1900
+11/24-12:33:01.374246  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.181:45834 -> 239.255.255.250:1900
+11/24-12:33:01.600702  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.172:52344 -> 239.255.255.250:1900
+11/24-12:33:01.787087  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.190:56822 -> 239.255.255.250:1900
+11/24-12:33:01.875053  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.137:55835 -> 239.255.255.250:1900
+11/24-12:33:02.226442  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.1:51865 -> 239.255.255.250:1900
+11/24-12:33:02.319588  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52216 -> 239.255.255.250:1900
+11/24-12:33:02.319588  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:56013 -> 239.255.255.250:1900
+11/24-12:33:02.433312  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:02.498882  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:02.604772  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.172:52344 -> 239.255.255.250:1900
+11/24-12:33:02.740179  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:02.795787  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.190:56822 -> 239.255.255.250:1900
+11/24-12:33:02.876615  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.137:55835 -> 239.255.255.250:1900
+11/24-12:33:02.969748  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::581b:1255:8b3e:7e5a:61800 -> ff02::c:1900
+11/24-12:33:02.969842  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:03.001004  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::581b:1255:8b3e:7e5a:61800 -> ff02::c:1900
+11/24-12:33:03.002021  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:03.032364  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:03.032866  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::581b:1255:8b3e:7e5a:61800 -> ff02::c:1900
+11/24-12:33:03.051853  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.213:44094 -> 239.255.255.250:1900
+11/24-12:33:03.063918  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:03.334653  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:52216 -> 239.255.255.250:1900
+11/24-12:33:03.334653  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:56013 -> 239.255.255.250:1900
+11/24-12:33:03.605245  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.172:52344 -> 239.255.255.250:1900
+11/24-12:33:03.694581  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54091 -> 239.255.255.250:1900
+11/24-12:33:03.695428  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54092 -> 239.255.255.250:1900
+11/24-12:33:03.746288  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55444 -> 239.255.255.250:1900
+11/24-12:33:03.775289  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55445 -> 239.255.255.250:1900
+11/24-12:33:03.815765  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:04.053326  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.213:44094 -> 239.255.255.250:1900
+11/24-12:33:04.699360  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54091 -> 239.255.255.250:1900
+11/24-12:33:04.699360  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54092 -> 239.255.255.250:1900
+11/24-12:33:04.748008  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55444 -> 239.255.255.250:1900
+11/24-12:33:04.777206  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55445 -> 239.255.255.250:1900
+11/24-12:33:05.053918  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.213:44094 -> 239.255.255.250:1900
+11/24-12:33:05.440773  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:05.702280  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54091 -> 239.255.255.250:1900
+11/24-12:33:05.702504  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54092 -> 239.255.255.250:1900
+11/24-12:33:05.750324  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55444 -> 239.255.255.250:1900
+11/24-12:33:05.779116  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55445 -> 239.255.255.250:1900
+11/24-12:33:06.055365  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.213:44094 -> 239.255.255.250:1900
+11/24-12:33:06.065761  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::581b:1255:8b3e:7e5a:61800 -> ff02::c:1900
+11/24-12:33:06.066097  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:06.098025  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::581b:1255:8b3e:7e5a:61800 -> ff02::c:1900
+11/24-12:33:06.099019  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:06.129150  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::581b:1255:8b3e:7e5a:61800 -> ff02::c:1900
+11/24-12:33:06.129150  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:06.129216  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:06.159681  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:06.702762  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54091 -> 239.255.255.250:1900
+11/24-12:33:06.718088  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:54092 -> 239.255.255.250:1900
+11/24-12:33:06.751716  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55444 -> 239.255.255.250:1900
+11/24-12:33:06.780081  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.53:55445 -> 239.255.255.250:1900
+11/24-12:33:06.828381  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:07.874836  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:60584 -> ff02::c:1900
+11/24-12:33:08.457407  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:09.742748  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:09.816721  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:10.408001  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.408001  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.408531  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.408531  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.408992  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.408992  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.409457  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.409760  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.409760  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.410198  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.520449  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.100.207:38270 -> 239.255.255.250:1900
+11/24-12:33:10.660039  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:49623 -> 239.255.255.250:1900
+11/24-12:33:10.661939  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:49623 -> 239.255.255.250:1900
+11/24-12:33:10.665373  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:49623 -> 239.255.255.250:1900
+11/24-12:33:10.665373  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:46202 -> 239.255.255.250:1900
+11/24-12:33:10.684841  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:10.804632  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:58066 -> 239.255.255.250:1900
+11/24-12:33:10.805349  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:58066 -> 239.255.255.250:1900
+11/24-12:33:10.815675  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:58066 -> 239.255.255.250:1900
+11/24-12:33:10.829698  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:41146 -> 239.255.255.250:1900
+11/24-12:33:10.911656  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:60584 -> ff02::c:1900
+11/24-12:33:11.459578  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:11.636894  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:55444 -> 239.255.255.250:1900
+11/24-12:33:12.020222  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62234 -> 239.255.255.250:1900
+11/24-12:33:12.260705  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:12.272473  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57131 -> 239.255.255.250:1900
+11/24-12:33:12.272473  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57135 -> 239.255.255.250:1900
+11/24-12:33:12.639277  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:55444 -> 239.255.255.250:1900
+11/24-12:33:12.896345  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:13.023224  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62234 -> 239.255.255.250:1900
+11/24-12:33:13.096215  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.177:52328 -> 239.255.255.250:1900
+11/24-12:33:13.276567  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57131 -> 239.255.255.250:1900
+11/24-12:33:13.276567  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57135 -> 239.255.255.250:1900
+11/24-12:33:13.567700  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ffaf:c516
+11/24-12:33:13.589601  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:13.614353  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:13.641742  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:55444 -> 239.255.255.250:1900
+11/24-12:33:14.024944  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62234 -> 239.255.255.250:1900
+11/24-12:33:14.097282  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.177:52328 -> 239.255.255.250:1900
+11/24-12:33:14.136661  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64806 -> 239.255.255.250:1900
+11/24-12:33:14.141866  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:14.142389  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64811 -> 239.255.255.250:1900
+11/24-12:33:14.143938  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61150 -> 239.255.255.250:1900
+11/24-12:33:14.149646  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61155 -> 239.255.255.250:1900
+11/24-12:33:14.280354  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57135 -> 239.255.255.250:1900
+11/24-12:33:14.280354  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57131 -> 239.255.255.250:1900
+11/24-12:33:14.404838  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:64283 -> ff02::c:1900
+11/24-12:33:14.469739  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:14.532502  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:14.642590  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:55444 -> 239.255.255.250:1900
+11/24-12:33:14.758664  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.105:49665 -> 239.255.255.250:1900
+11/24-12:33:15.026672  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62234 -> 239.255.255.250:1900
+11/24-12:33:15.098054  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.177:52328 -> 239.255.255.250:1900
+11/24-12:33:15.137092  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64806 -> 239.255.255.250:1900
+11/24-12:33:15.143104  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64811 -> 239.255.255.250:1900
+11/24-12:33:15.146011  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61150 -> 239.255.255.250:1900
+11/24-12:33:15.151712  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61155 -> 239.255.255.250:1900
+11/24-12:33:15.280605  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57135 -> 239.255.255.250:1900
+11/24-12:33:15.280605  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.164:57131 -> 239.255.255.250:1900
+11/24-12:33:15.761575  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.105:49665 -> 239.255.255.250:1900
+11/24-12:33:16.098776  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.177:52328 -> 239.255.255.250:1900
+11/24-12:33:16.139323  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64806 -> 239.255.255.250:1900
+11/24-12:33:16.144205  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64811 -> 239.255.255.250:1900
+11/24-12:33:16.147121  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61150 -> 239.255.255.250:1900
+11/24-12:33:16.154667  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61155 -> 239.255.255.250:1900
+11/24-12:33:16.347798  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:16.481669  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58304 -> 239.255.255.250:1900
+11/24-12:33:16.763284  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.105:49665 -> 239.255.255.250:1900
+11/24-12:33:17.140007  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64806 -> 239.255.255.250:1900
+11/24-12:33:17.144423  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:64811 -> 239.255.255.250:1900
+11/24-12:33:17.149566  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61150 -> 239.255.255.250:1900
+11/24-12:33:17.155468  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.244:61155 -> 239.255.255.250:1900
+11/24-12:33:17.404420  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:64283 -> ff02::c:1900
+11/24-12:33:17.470210  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:17.485402  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58304 -> 239.255.255.250:1900
+11/24-12:33:17.526271  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:17.589005  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:17.594576  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:17.765643  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.105:49665 -> 239.255.255.250:1900
+11/24-12:33:18.012204  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50309 -> 239.255.255.250:1900
+11/24-12:33:18.232773  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58308 -> 239.255.255.250:1900
+11/24-12:33:18.290489  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.245:47440 -> 239.255.255.250:1900
+11/24-12:33:18.488198  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58304 -> 239.255.255.250:1900
+11/24-12:33:18.628811  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54901 -> 239.255.255.250:1900
+11/24-12:33:18.649993  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:19.196798  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50312 -> 239.255.255.250:1900
+11/24-12:33:19.235182  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58308 -> 239.255.255.250:1900
+11/24-12:33:19.289846  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.245:47440 -> 239.255.255.250:1900
+11/24-12:33:19.492282  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58304 -> 239.255.255.250:1900
+11/24-12:33:19.577434  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54905 -> 239.255.255.250:1900
+11/24-12:33:19.625667  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54901 -> 239.255.255.250:1900
+11/24-12:33:20.093525  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.247:58586 -> 239.255.255.250:1900
+11/24-12:33:20.237316  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58308 -> 239.255.255.250:1900
+11/24-12:33:20.239852  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50312 -> 239.255.255.250:1900
+11/24-12:33:20.290213  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.245:47440 -> 239.255.255.250:1900
+11/24-12:33:20.417522  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.193:42033 -> 239.255.255.250:1900
+11/24-12:33:20.482998  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:20.578118  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54905 -> 239.255.255.250:1900
+11/24-12:33:20.626916  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54901 -> 239.255.255.250:1900
+11/24-12:33:20.630587  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.197:58659 -> 239.255.255.250:1900
+11/24-12:33:20.704136  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50309 -> 239.255.255.250:1900
+11/24-12:33:21.095976  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.247:58586 -> 239.255.255.250:1900
+11/24-12:33:21.204284  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50312 -> 239.255.255.250:1900
+11/24-12:33:21.239148  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.193:58308 -> 239.255.255.250:1900
+11/24-12:33:21.290370  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.245:47440 -> 239.255.255.250:1900
+11/24-12:33:21.425108  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.193:42033 -> 239.255.255.250:1900
+11/24-12:33:21.513804  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.7:33252 -> 239.255.255.250:1900
+11/24-12:33:21.578331  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54905 -> 239.255.255.250:1900
+11/24-12:33:21.627618  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54901 -> 239.255.255.250:1900
+11/24-12:33:21.631071  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.197:58659 -> 239.255.255.250:1900
+11/24-12:33:22.072484  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:22.085664  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.179:60028 -> 239.255.255.250:1900
+11/24-12:33:22.100493  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.247:58586 -> 239.255.255.250:1900
+11/24-12:33:22.213774  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:59759 -> 239.255.255.250:1900
+11/24-12:33:22.374162  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50312 -> 239.255.255.250:1900
+11/24-12:33:22.432937  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.193:42033 -> 239.255.255.250:1900
+11/24-12:33:22.515108  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.7:33252 -> 239.255.255.250:1900
+11/24-12:33:22.579471  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:54905 -> 239.255.255.250:1900
+11/24-12:33:22.633730  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.197:58659 -> 239.255.255.250:1900
+11/24-12:33:23.101649  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.247:58586 -> 239.255.255.250:1900
+11/24-12:33:23.217493  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:59759 -> 239.255.255.250:1900
+11/24-12:33:23.440217  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.193:42033 -> 239.255.255.250:1900
+11/24-12:33:23.498564  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:23.501641  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50309 -> 239.255.255.250:1900
+11/24-12:33:23.501655  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:50306 -> ff02::c:1900
+11/24-12:33:23.508199  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50309 -> 239.255.255.250:1900
+11/24-12:33:23.514932  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.7:33252 -> 239.255.255.250:1900
+11/24-12:33:23.622123  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:23.625900  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:23.630388  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:23.635215  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.197:58659 -> 239.255.255.250:1900
+11/24-12:33:23.735160  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50309 -> 239.255.255.250:1900
+11/24-12:33:23.904625  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.242:35191 -> 239.255.255.250:1900
+11/24-12:33:23.904733  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} fe80::b1f7:1599:3ec:1c42:51256 -> ff02::c:1900
+11/24-12:33:24.217644  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:59759 -> 239.255.255.250:1900
+11/24-12:33:24.516928  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.7:33252 -> 239.255.255.250:1900
+11/24-12:33:24.834503  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:25.086063  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.179:60028 -> 239.255.255.250:1900
+11/24-12:33:25.220080  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:59759 -> 239.255.255.250:1900
+11/24-12:33:25.431869  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.117:58595 -> 239.255.255.250:1900
+11/24-12:33:26.111023  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.157:60657 -> 239.255.255.250:1900
+11/24-12:33:26.432447  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.117:58595 -> 239.255.255.250:1900
+11/24-12:33:26.497999  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:26.568206  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:50306 -> ff02::c:1900
+11/24-12:33:26.574166  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50309 -> 239.255.255.250:1900
+11/24-12:33:26.581009  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:50309 -> 239.255.255.250:1900
+11/24-12:33:27.065401  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:27.112056  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.157:60657 -> 239.255.255.250:1900
+11/24-12:33:27.242795  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:27.361280  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:59271 -> 239.255.255.250:1900
+11/24-12:33:27.432898  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.117:58595 -> 239.255.255.250:1900
+11/24-12:33:27.664809  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:62385 -> 239.255.255.250:1900
+11/24-12:33:27.834857  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:28.086251  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.179:60028 -> 239.255.255.250:1900
+11/24-12:33:28.113003  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.157:60657 -> 239.255.255.250:1900
+11/24-12:33:28.364268  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:59271 -> 239.255.255.250:1900
+11/24-12:33:28.433771  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.117:58595 -> 239.255.255.250:1900
+11/24-12:33:28.665425  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:62385 -> 239.255.255.250:1900
+11/24-12:33:28.742378  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:35708 -> 239.255.255.250:1900
+11/24-12:33:28.744178  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:35708 -> 239.255.255.250:1900
+11/24-12:33:28.747624  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:35708 -> 239.255.255.250:1900
+11/24-12:33:28.750182  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44192 -> 239.255.255.250:1900
+11/24-12:33:28.856482  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:34706 -> 239.255.255.250:1900
+11/24-12:33:28.856982  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:34706 -> 239.255.255.250:1900
+11/24-12:33:28.856982  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:34706 -> 239.255.255.250:1900
+11/24-12:33:28.857997  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:47402 -> 239.255.255.250:1900
+11/24-12:33:29.113139  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.157:60657 -> 239.255.255.250:1900
+11/24-12:33:29.369864  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:59271 -> 239.255.255.250:1900
+11/24-12:33:29.501832  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:29.667183  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:62385 -> 239.255.255.250:1900
+11/24-12:33:30.103277  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:30.369192  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:59271 -> 239.255.255.250:1900
+11/24-12:33:30.668828  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:62385 -> 239.255.255.250:1900
+11/24-12:33:30.835964  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:31.008060  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.141:33903 -> 239.255.255.250:1900
+11/24-12:33:31.037999  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:32.008592  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.141:33903 -> 239.255.255.250:1900
+11/24-12:33:32.090173  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:32.390794  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:32.525347  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:32.795845  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.115:43582 -> 239.255.255.250:1900
+11/24-12:33:33.009434  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.141:33903 -> 239.255.255.250:1900
+11/24-12:33:33.790023  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.115:43582 -> 239.255.255.250:1900
+11/24-12:33:33.917951  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.175:53288 -> 239.255.255.250:1900
+11/24-12:33:34.009766  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.141:33903 -> 239.255.255.250:1900
+11/24-12:33:34.796356  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.115:43582 -> 239.255.255.250:1900
+11/24-12:33:34.920576  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.175:53288 -> 239.255.255.250:1900
+11/24-12:33:35.026214  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:35.515527  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:35.729888  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.200:56076 -> 239.255.255.250:1900
+11/24-12:33:35.791269  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.115:43582 -> 239.255.255.250:1900
+11/24-12:33:35.922867  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.175:53288 -> 239.255.255.250:1900
+11/24-12:33:36.230275  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57416 -> 239.255.255.250:1900
+11/24-12:33:36.230275  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57417 -> 239.255.255.250:1900
+11/24-12:33:36.732479  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.200:56076 -> 239.255.255.250:1900
+11/24-12:33:36.925440  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.175:53288 -> 239.255.255.250:1900
+11/24-12:33:36.940116  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:65373 -> 239.255.255.250:1900
+11/24-12:33:37.222446  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57417 -> 239.255.255.250:1900
+11/24-12:33:37.222708  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57416 -> 239.255.255.250:1900
+11/24-12:33:37.545565  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:56238 -> 239.255.255.250:1900
+11/24-12:33:37.565832  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:50847 -> 239.255.255.250:1900
+11/24-12:33:37.732103  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.200:56076 -> 239.255.255.250:1900
+11/24-12:33:38.227029  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57417 -> 239.255.255.250:1900
+11/24-12:33:38.227276  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57416 -> 239.255.255.250:1900
+11/24-12:33:38.545114  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:61802 -> 239.255.255.250:1900
+11/24-12:33:38.548526  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:56238 -> 239.255.255.250:1900
+11/24-12:33:38.567534  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:50847 -> 239.255.255.250:1900
+11/24-12:33:38.733136  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.200:56076 -> 239.255.255.250:1900
+11/24-12:33:39.156536  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.208:46894 -> 239.255.255.250:1900
+11/24-12:33:39.228563  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57416 -> 239.255.255.250:1900
+11/24-12:33:39.228563  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.75:57417 -> 239.255.255.250:1900
+11/24-12:33:39.256330  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54260 -> 239.255.255.250:1900
+11/24-12:33:39.550562  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:56238 -> 239.255.255.250:1900
+11/24-12:33:39.567906  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:50847 -> 239.255.255.250:1900
+11/24-12:33:39.938187  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:65373 -> 239.255.255.250:1900
+11/24-12:33:40.158667  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.208:46894 -> 239.255.255.250:1900
+11/24-12:33:40.261175  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54260 -> 239.255.255.250:1900
+11/24-12:33:40.552308  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:56238 -> 239.255.255.250:1900
+11/24-12:33:40.569308  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.238:50847 -> 239.255.255.250:1900
+11/24-12:33:41.160982  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.208:46894 -> 239.255.255.250:1900
+11/24-12:33:41.265545  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54260 -> 239.255.255.250:1900
+11/24-12:33:41.772661  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59564 -> 239.255.255.250:1900
+11/24-12:33:41.895297  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:42.163481  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.208:46894 -> 239.255.255.250:1900
+11/24-12:33:42.265416  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54260 -> 239.255.255.250:1900
+11/24-12:33:42.775111  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59564 -> 239.255.255.250:1900
+11/24-12:33:42.944190  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:65373 -> 239.255.255.250:1900
+11/24-12:33:43.779788  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59564 -> 239.255.255.250:1900
+11/24-12:33:44.743115  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:44.779867  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:59564 -> 239.255.255.250:1900
+11/24-12:33:45.861720  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:46.320423  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:63265 -> 239.255.255.250:1900
+11/24-12:33:46.399930  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:58175 -> 239.255.255.250:1900
+11/24-12:33:46.430751  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:58175 -> 239.255.255.250:1900
+11/24-12:33:46.941919  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:43790 -> 239.255.255.250:1900
+11/24-12:33:46.944962  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:43790 -> 239.255.255.250:1900
+11/24-12:33:46.965197  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:43790 -> 239.255.255.250:1900
+11/24-12:33:46.967086  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:46371 -> 239.255.255.250:1900
+11/24-12:33:46.975968  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ffa7:4189
+11/24-12:33:46.983359  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+11/24-12:33:47.070484  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:47.073397  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+11/24-12:33:47.076047  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:41517 -> 239.255.255.250:1900
+11/24-12:33:47.076494  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:41517 -> 239.255.255.250:1900
+11/24-12:33:47.076494  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:41517 -> 239.255.255.250:1900
+11/24-12:33:47.077489  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:49906 -> 239.255.255.250:1900
+11/24-12:33:47.228954  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:47.269259  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:47.321543  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:63265 -> 239.255.255.250:1900
+11/24-12:33:48.322819  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:63265 -> 239.255.255.250:1900
+11/24-12:33:48.865664  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:49.245937  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60224 -> 239.255.255.250:1900
+11/24-12:33:49.260559  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60232 -> 239.255.255.250:1900
+11/24-12:33:49.324785  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.168:63265 -> 239.255.255.250:1900
+11/24-12:33:49.434539  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:58175 -> 239.255.255.250:1900
+11/24-12:33:49.464502  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:58175 -> 239.255.255.250:1900
+11/24-12:33:49.638527  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:49.846554  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.171:35688 -> 239.255.255.250:1900
+11/24-12:33:50.251865  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60224 -> 239.255.255.250:1900
+11/24-12:33:50.263087  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60232 -> 239.255.255.250:1900
+11/24-12:33:50.434442  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:49405 -> 239.255.255.250:1900
+11/24-12:33:50.847281  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.171:35688 -> 239.255.255.250:1900
+11/24-12:33:50.980357  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.207:46493 -> 239.255.255.250:1900
+11/24-12:33:51.067909  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.165:61329 -> 239.255.255.250:1900
+11/24-12:33:51.263746  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60224 -> 239.255.255.250:1900
+11/24-12:33:51.263746  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60232 -> 239.255.255.250:1900
+11/24-12:33:51.438841  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:49405 -> 239.255.255.250:1900
+11/24-12:33:51.763095  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:50966 -> 239.255.255.250:1900
+11/24-12:33:51.848569  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.171:35688 -> 239.255.255.250:1900
+11/24-12:33:51.862321  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:33:51.980794  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.207:46493 -> 239.255.255.250:1900
+11/24-12:33:52.071535  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.165:61329 -> 239.255.255.250:1900
+11/24-12:33:52.266436  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60224 -> 239.255.255.250:1900
+11/24-12:33:52.266436  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.218:60232 -> 239.255.255.250:1900
+11/24-12:33:52.279342  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.146:42386 -> 239.255.255.250:1900
+11/24-12:33:52.437984  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:49405 -> 239.255.255.250:1900
+11/24-12:33:52.526003  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:52.588580  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61280 -> 239.255.255.250:1900
+11/24-12:33:52.598150  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61284 -> 239.255.255.250:1900
+11/24-12:33:52.765578  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:50966 -> 239.255.255.250:1900
+11/24-12:33:52.850914  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.171:35688 -> 239.255.255.250:1900
+11/24-12:33:52.980885  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.207:46493 -> 239.255.255.250:1900
+11/24-12:33:53.078855  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.165:61329 -> 239.255.255.250:1900
+11/24-12:33:53.278816  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.146:42386 -> 239.255.255.250:1900
+11/24-12:33:53.441377  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:49405 -> 239.255.255.250:1900
+11/24-12:33:53.590281  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61280 -> 239.255.255.250:1900
+11/24-12:33:53.598752  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61284 -> 239.255.255.250:1900
+11/24-12:33:53.765581  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:50966 -> 239.255.255.250:1900
+11/24-12:33:53.905676  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.242:35191 -> 239.255.255.250:1900
+11/24-12:33:53.905733  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} fe80::b1f7:1599:3ec:1c42:51256 -> ff02::c:1900
+11/24-12:33:53.980933  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.207:46493 -> 239.255.255.250:1900
+11/24-12:33:54.069826  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.165:61329 -> 239.255.255.250:1900
+11/24-12:33:54.279949  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.146:42386 -> 239.255.255.250:1900
+11/24-12:33:54.590348  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61280 -> 239.255.255.250:1900
+11/24-12:33:54.602024  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61284 -> 239.255.255.250:1900
+11/24-12:33:54.766680  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:50966 -> 239.255.255.250:1900
+11/24-12:33:54.848895  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.23:38733 -> 239.255.255.250:1900
+11/24-12:33:55.281145  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.146:42386 -> 239.255.255.250:1900
+11/24-12:33:55.591607  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61280 -> 239.255.255.250:1900
+11/24-12:33:55.599741  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.122:61284 -> 239.255.255.250:1900
+11/24-12:33:55.630983  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:56074 -> 239.255.255.250:1900
+11/24-12:33:55.849836  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.23:38733 -> 239.255.255.250:1900
+11/24-12:33:56.631980  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:56074 -> 239.255.255.250:1900
+11/24-12:33:56.675290  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:33:56.850874  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.23:38733 -> 239.255.255.250:1900
+11/24-12:33:57.634177  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:56074 -> 239.255.255.250:1900
+11/24-12:33:57.852671  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.23:38733 -> 239.255.255.250:1900
+11/24-12:33:58.422989  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63793 -> 239.255.255.250:1900
+11/24-12:33:58.422989  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63796 -> 239.255.255.250:1900
+11/24-12:33:58.443779  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:59912 -> 239.255.255.250:1900
+11/24-12:33:58.636712  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:56074 -> 239.255.255.250:1900
+11/24-12:33:58.833262  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.210:49153 -> 239.255.255.250:1900
+11/24-12:33:58.883621  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:56782 -> 239.255.255.250:1900
+11/24-12:33:58.883801  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:56779 -> ff02::c:1900
+11/24-12:33:58.955812  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:56782 -> 239.255.255.250:1900
+11/24-12:33:59.445497  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:59912 -> 239.255.255.250:1900
+11/24-12:33:59.548622  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63793 -> 239.255.255.250:1900
+11/24-12:33:59.548622  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63796 -> 239.255.255.250:1900
+11/24-12:33:59.835046  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.210:49153 -> 239.255.255.250:1900
+11/24-12:34:00.439450  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63793 -> 239.255.255.250:1900
+11/24-12:34:00.439692  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63796 -> 239.255.255.250:1900
+11/24-12:34:00.447841  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:59912 -> 239.255.255.250:1900
+11/24-12:34:00.565428  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.216:65422 -> 239.255.255.250:1900
+11/24-12:34:00.836825  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.210:49153 -> 239.255.255.250:1900
+11/24-12:34:01.395245  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:56782 -> 239.255.255.250:1900
+11/24-12:34:01.452499  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.86:59912 -> 239.255.255.250:1900
+11/24-12:34:01.500364  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63793 -> 239.255.255.250:1900
+11/24-12:34:01.500364  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.250.27:63796 -> 239.255.255.250:1900
+11/24-12:34:01.567605  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.216:65422 -> 239.255.255.250:1900
+11/24-12:34:01.839237  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.210:49153 -> 239.255.255.250:1900
+11/24-12:34:01.921025  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:56779 -> ff02::c:1900
+11/24-12:34:01.921121  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:56782 -> 239.255.255.250:1900
+11/24-12:34:01.946455  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:56782 -> 239.255.255.250:1900
+11/24-12:34:02.068015  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:02.242841  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:02.364747  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:62714 -> 239.255.255.250:1900
+11/24-12:34:02.364813  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:02.365376  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:02.570616  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.216:65422 -> 239.255.255.250:1900
+11/24-12:34:03.189786  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:62714 -> 239.255.255.250:1900
+11/24-12:34:03.575154  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.216:65422 -> 239.255.255.250:1900
+11/24-12:34:03.911978  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:63107 -> 239.255.255.250:1900
+11/24-12:34:04.094980  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.46:46620 -> 239.255.255.250:1900
+11/24-12:34:04.201845  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:62714 -> 239.255.255.250:1900
+11/24-12:34:04.405082  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:56782 -> 239.255.255.250:1900
+11/24-12:34:04.474894  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:54091 -> 239.255.255.250:1900
+11/24-12:34:04.485380  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:54091 -> 239.255.255.250:1900
+11/24-12:34:04.487066  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:54091 -> 239.255.255.250:1900
+11/24-12:34:04.488977  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42221 -> 239.255.255.250:1900
+11/24-12:34:04.596912  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42316 -> 239.255.255.250:1900
+11/24-12:34:04.597413  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42316 -> 239.255.255.250:1900
+11/24-12:34:04.597413  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:42316 -> 239.255.255.250:1900
+11/24-12:34:04.598293  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:32989 -> 239.255.255.250:1900
+11/24-12:34:04.913434  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:63107 -> 239.255.255.250:1900
+11/24-12:34:05.096835  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.46:46620 -> 239.255.255.250:1900
+11/24-12:34:05.337511  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:62714 -> 239.255.255.250:1900
+11/24-12:34:05.916039  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:63107 -> 239.255.255.250:1900
+11/24-12:34:06.097940  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.46:46620 -> 239.255.255.250:1900
+11/24-12:34:06.418751  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:06.426337  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:06.882827  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:06.918388  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:63107 -> 239.255.255.250:1900
+11/24-12:34:07.100642  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.46:46620 -> 239.255.255.250:1900
+11/24-12:34:07.237153  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:07.619976  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.17:50167 -> 239.255.255.250:1900
+11/24-12:34:08.620986  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.17:50167 -> 239.255.255.250:1900
+11/24-12:34:09.346985  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.249:53083 -> 239.255.255.250:1900
+11/24-12:34:09.622849  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.17:50167 -> 239.255.255.250:1900
+11/24-12:34:09.883073  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:10.025882  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:10.138308  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.179:60894 -> 239.255.255.250:1900
+11/24-12:34:10.360115  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.249:53083 -> 239.255.255.250:1900
+11/24-12:34:10.625648  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.17:50167 -> 239.255.255.250:1900
+11/24-12:34:10.940759  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:55592 -> 239.255.255.250:1900
+11/24-12:34:11.111917  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:59984 -> 239.255.255.250:1900
+11/24-12:34:11.138651  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.179:60894 -> 239.255.255.250:1900
+11/24-12:34:11.362185  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.249:53083 -> 239.255.255.250:1900
+11/24-12:34:11.504599  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:11.944122  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:55592 -> 239.255.255.250:1900
+11/24-12:34:12.112864  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:59984 -> 239.255.255.250:1900
+11/24-12:34:12.139425  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.179:60894 -> 239.255.255.250:1900
+11/24-12:34:12.147431  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50681 -> 239.255.255.250:1900
+11/24-12:34:12.205186  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50684 -> 239.255.255.250:1900
+11/24-12:34:12.364735  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.249:53083 -> 239.255.255.250:1900
+11/24-12:34:12.886128  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:12.945706  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:55592 -> 239.255.255.250:1900
+11/24-12:34:13.115771  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:59984 -> 239.255.255.250:1900
+11/24-12:34:13.139388  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.179:60894 -> 239.255.255.250:1900
+11/24-12:34:13.154692  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50681 -> 239.255.255.250:1900
+11/24-12:34:13.205664  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50684 -> 239.255.255.250:1900
+11/24-12:34:13.530629  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54274 -> 239.255.255.250:1900
+11/24-12:34:13.538097  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:54349 -> 239.255.255.250:1900
+11/24-12:34:13.947518  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:55592 -> 239.255.255.250:1900
+11/24-12:34:14.068306  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ffaf:c516
+11/24-12:34:14.117253  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.41:59984 -> 239.255.255.250:1900
+11/24-12:34:14.149395  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50681 -> 239.255.255.250:1900
+11/24-12:34:14.186503  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:14.210310  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50684 -> 239.255.255.250:1900
+11/24-12:34:14.210310  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:14.421773  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:14.425251  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:14.444669  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:14.452503  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:14.533682  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54274 -> 239.255.255.250:1900
+11/24-12:34:14.540718  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:54349 -> 239.255.255.250:1900
+11/24-12:34:14.552246  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:15.063897  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:15.150217  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50681 -> 239.255.255.250:1900
+11/24-12:34:15.208232  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.253:50684 -> 239.255.255.250:1900
+11/24-12:34:15.247134  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:53999 -> 239.255.255.250:1900
+11/24-12:34:15.397345  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:54011 -> 239.255.255.250:1900
+11/24-12:34:15.535316  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54274 -> 239.255.255.250:1900
+11/24-12:34:15.539022  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:54349 -> 239.255.255.250:1900
+11/24-12:34:16.247802  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:53999 -> 239.255.255.250:1900
+11/24-12:34:16.398832  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:54011 -> 239.255.255.250:1900
+11/24-12:34:16.535965  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.24:54274 -> 239.255.255.250:1900
+11/24-12:34:16.539966  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:54349 -> 239.255.255.250:1900
+11/24-12:34:16.799240  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.151:47982 -> 239.255.255.250:1900
+11/24-12:34:16.911446  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:17.074741  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:17.248807  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:53999 -> 239.255.255.250:1900
+11/24-12:34:17.399003  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:54011 -> 239.255.255.250:1900
+11/24-12:34:17.799657  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.151:47982 -> 239.255.255.250:1900
+11/24-12:34:18.250153  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:53999 -> 239.255.255.250:1900
+11/24-12:34:18.400569  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.20:54011 -> 239.255.255.250:1900
+11/24-12:34:18.800418  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.151:47982 -> 239.255.255.250:1900
+11/24-12:34:19.214747  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.162:52729 -> 239.255.255.250:1900
+11/24-12:34:19.743200  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:19.801648  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.151:47982 -> 239.255.255.250:1900
+11/24-12:34:19.937293  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:58739 -> 239.255.255.250:1900
+11/24-12:34:20.215946  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.162:52729 -> 239.255.255.250:1900
+11/24-12:34:20.570547  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:35226 -> 239.255.255.250:1900
+11/24-12:34:20.820987  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51613 -> 239.255.255.250:1900
+11/24-12:34:20.820987  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51615 -> 239.255.255.250:1900
+11/24-12:34:20.938777  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:58739 -> 239.255.255.250:1900
+11/24-12:34:21.216678  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.162:52729 -> 239.255.255.250:1900
+11/24-12:34:21.234024  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:21.253368  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:52804 -> 239.255.255.250:1900
+11/24-12:34:21.253368  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:52804 -> 239.255.255.250:1900
+11/24-12:34:21.265714  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:52804 -> 239.255.255.250:1900
+11/24-12:34:21.269007  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:54227 -> 239.255.255.250:1900
+11/24-12:34:21.375785  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44189 -> 239.255.255.250:1900
+11/24-12:34:21.376581  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44189 -> 239.255.255.250:1900
+11/24-12:34:21.376581  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44189 -> 239.255.255.250:1900
+11/24-12:34:21.377025  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:40995 -> 239.255.255.250:1900
+11/24-12:34:21.570074  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:35226 -> 239.255.255.250:1900
+11/24-12:34:21.662755  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:43910 -> 239.255.255.250:1900
+11/24-12:34:21.822198  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51613 -> 239.255.255.250:1900
+11/24-12:34:21.822198  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51615 -> 239.255.255.250:1900
+11/24-12:34:21.939019  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:58739 -> 239.255.255.250:1900
+11/24-12:34:22.217026  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.162:52729 -> 239.255.255.250:1900
+11/24-12:34:22.570910  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:35226 -> 239.255.255.250:1900
+11/24-12:34:22.664066  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:43910 -> 239.255.255.250:1900
+11/24-12:34:22.820030  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:33783 -> 239.255.255.250:1900
+11/24-12:34:22.824739  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51615 -> 239.255.255.250:1900
+11/24-12:34:22.824739  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51613 -> 239.255.255.250:1900
+11/24-12:34:22.940512  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.215:58739 -> 239.255.255.250:1900
+11/24-12:34:23.571831  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.209:35226 -> 239.255.255.250:1900
+11/24-12:34:23.616308  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:23.664688  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:43910 -> 239.255.255.250:1900
+11/24-12:34:23.822254  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:33783 -> 239.255.255.250:1900
+11/24-12:34:23.825938  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51615 -> 239.255.255.250:1900
+11/24-12:34:23.825938  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.208:51613 -> 239.255.255.250:1900
+11/24-12:34:23.906013  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} fe80::b1f7:1599:3ec:1c42:51256 -> ff02::c:1900
+11/24-12:34:23.906246  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.242:35191 -> 239.255.255.250:1900
+11/24-12:34:24.665470  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.92:43910 -> 239.255.255.250:1900
+11/24-12:34:24.821077  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:33783 -> 239.255.255.250:1900
+11/24-12:34:25.578099  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:57194 -> 239.255.255.250:1900
+11/24-12:34:25.821541  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.183:33783 -> 239.255.255.250:1900
+11/24-12:34:26.213826  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:58703 -> 239.255.255.250:1900
+11/24-12:34:26.353547  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:26.512844  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:52961 -> 239.255.255.250:1900
+11/24-12:34:26.581542  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:57194 -> 239.255.255.250:1900
+11/24-12:34:27.197696  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40503 -> 239.255.255.250:1900
+11/24-12:34:27.225197  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:58703 -> 239.255.255.250:1900
+11/24-12:34:27.520327  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:52961 -> 239.255.255.250:1900
+11/24-12:34:27.529862  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:27.584142  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:57194 -> 239.255.255.250:1900
+11/24-12:34:27.896060  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:28.199631  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40503 -> 239.255.255.250:1900
+11/24-12:34:28.225219  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:58703 -> 239.255.255.250:1900
+11/24-12:34:28.529102  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:52961 -> 239.255.255.250:1900
+11/24-12:34:28.585577  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.201:57194 -> 239.255.255.250:1900
+11/24-12:34:28.701031  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:29.203802  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40503 -> 239.255.255.250:1900
+11/24-12:34:29.227353  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:58379 -> 239.255.255.250:1900
+11/24-12:34:29.230933  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.90:58703 -> 239.255.255.250:1900
+11/24-12:34:29.534052  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.56:52961 -> 239.255.255.250:1900
+11/24-12:34:29.876258  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:54663 -> ff02::c:1900
+11/24-12:34:29.876402  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54666 -> 239.255.255.250:1900
+11/24-12:34:29.911245  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54666 -> 239.255.255.250:1900
+11/24-12:34:30.203237  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.228:40503 -> 239.255.255.250:1900
+11/24-12:34:30.896862  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:31.098692  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54666 -> 239.255.255.250:1900
+11/24-12:34:31.728170  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:32.079675  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54666 -> 239.255.255.250:1900
+11/24-12:34:32.223054  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:58379 -> 239.255.255.250:1900
+11/24-12:34:32.576107  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:50469 -> 239.255.255.250:1900
+11/24-12:34:32.576107  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:38767 -> 239.255.255.250:1900
+11/24-12:34:32.905829  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62235 -> 239.255.255.250:1900
+11/24-12:34:32.943804  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:32.943861  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:54663 -> ff02::c:1900
+11/24-12:34:32.943969  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54666 -> 239.255.255.250:1900
+11/24-12:34:32.943969  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54666 -> 239.255.255.250:1900
+11/24-12:34:33.160393  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:55815 -> 239.255.255.250:1900
+11/24-12:34:33.215383  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54907 -> 239.255.255.250:1900
+11/24-12:34:33.240450  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:33.578347  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:50469 -> 239.255.255.250:1900
+11/24-12:34:33.578347  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:38767 -> 239.255.255.250:1900
+11/24-12:34:33.898892  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:33.907359  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62235 -> 239.255.255.250:1900
+11/24-12:34:34.161880  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:55815 -> 239.255.255.250:1900
+11/24-12:34:34.166663  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54907 -> 239.255.255.250:1900
+11/24-12:34:34.580865  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:50469 -> 239.255.255.250:1900
+11/24-12:34:34.580865  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:38767 -> 239.255.255.250:1900
+11/24-12:34:34.907777  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62235 -> 239.255.255.250:1900
+11/24-12:34:35.073601  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54666 -> 239.255.255.250:1900
+11/24-12:34:35.167399  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54907 -> 239.255.255.250:1900
+11/24-12:34:35.169630  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:55815 -> 239.255.255.250:1900
+11/24-12:34:35.227706  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:58379 -> 239.255.255.250:1900
+11/24-12:34:35.581068  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:50469 -> 239.255.255.250:1900
+11/24-12:34:35.581068  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.182:38767 -> 239.255.255.250:1900
+11/24-12:34:35.910242  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.220:62235 -> 239.255.255.250:1900
+11/24-12:34:36.166546  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.159:55815 -> 239.255.255.250:1900
+11/24-12:34:36.224211  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 169.254.77.246:54907 -> 239.255.255.250:1900
+11/24-12:34:36.225503  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:36.516602  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:62656 -> 239.255.255.250:1900
+11/24-12:34:36.632367  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:56164 -> ff02::c:1900
+11/24-12:34:36.632368  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:56167 -> 239.255.255.250:1900
+11/24-12:34:36.658786  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:56167 -> 239.255.255.250:1900
+11/24-12:34:37.243504  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:37.518823  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:62656 -> 239.255.255.250:1900
+11/24-12:34:37.793888  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:51393 -> 239.255.255.250:1900
+11/24-12:34:38.180817  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64685 -> 239.255.255.250:1900
+11/24-12:34:38.181292  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:56167 -> 239.255.255.250:1900
+11/24-12:34:38.243487  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:58379 -> 239.255.255.250:1900
+11/24-12:34:38.521312  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:62656 -> 239.255.255.250:1900
+11/24-12:34:38.795679  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:51393 -> 239.255.255.250:1900
+11/24-12:34:38.950203  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:64685 -> 239.255.255.250:1900
+11/24-12:34:39.474714  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:38826 -> 239.255.255.250:1900
+11/24-12:34:39.505324  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:35980 -> 239.255.255.250:1900
+11/24-12:34:39.524438  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:62656 -> 239.255.255.250:1900
+11/24-12:34:39.669673  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::62ca:de3b:b8c8:d53a:56164 -> ff02::c:1900
+11/24-12:34:39.683417  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:65314 -> 239.255.255.250:1900
+11/24-12:34:39.796094  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:51393 -> 239.255.255.250:1900
+11/24-12:34:39.954166  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:56167 -> 239.255.255.250:1900
+11/24-12:34:40.338882  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:56167 -> 239.255.255.250:1900
+11/24-12:34:40.477234  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:38826 -> 239.255.255.250:1900
+11/24-12:34:40.506031  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:35980 -> 239.255.255.250:1900
+11/24-12:34:40.632061  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:54379 -> 239.255.255.250:1900
+11/24-12:34:40.685093  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:65314 -> 239.255.255.250:1900
+11/24-12:34:40.797158  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.230:51393 -> 239.255.255.250:1900
+11/24-12:34:40.971314  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44234 -> 239.255.255.250:1900
+11/24-12:34:40.973090  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44234 -> 239.255.255.250:1900
+11/24-12:34:40.973572  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44234 -> 239.255.255.250:1900
+11/24-12:34:40.975858  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:44944 -> 239.255.255.250:1900
+11/24-12:34:41.086826  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:36230 -> 239.255.255.250:1900
+11/24-12:34:41.086826  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:36230 -> 239.255.255.250:1900
+11/24-12:34:41.086826  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:36230 -> 239.255.255.250:1900
+11/24-12:34:41.087814  [**] [1:1384:8] MISC UPnP malformed advertisement [**] [Classification: Misc Attack] [Priority: 2] {UDP} 10.244.3.252:52225 -> 239.255.255.250:1900
+11/24-12:34:41.173388  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:41.242468  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:58379 -> 239.255.255.250:1900
+11/24-12:34:41.479753  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:38826 -> 239.255.255.250:1900
+11/24-12:34:41.506705  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:35980 -> 239.255.255.250:1900
+11/24-12:34:41.635593  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:54379 -> 239.255.255.250:1900
+11/24-12:34:41.687353  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:65314 -> 239.255.255.250:1900
+11/24-12:34:42.073980  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:42.481907  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.180:38826 -> 239.255.255.250:1900
+11/24-12:34:42.504939  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:54090 -> 239.255.255.250:1900
+11/24-12:34:42.507708  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.95:35980 -> 239.255.255.250:1900
+11/24-12:34:42.637176  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:54379 -> 239.255.255.250:1900
+11/24-12:34:42.689616  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.217:65314 -> 239.255.255.250:1900
+11/24-12:34:43.506768  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:54090 -> 239.255.255.250:1900
+11/24-12:34:43.626949  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:53754 -> 239.255.255.250:1900
+11/24-12:34:43.637414  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.4:54379 -> 239.255.255.250:1900
+11/24-12:34:44.214219  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ffc8:d53a
+11/24-12:34:44.214996  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:52908 -> 239.255.255.250:1900
+11/24-12:34:44.252058  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.251:58379 -> 239.255.255.250:1900
+11/24-12:34:44.275285  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56515 -> 239.255.255.250:1900
+11/24-12:34:44.290016  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56517 -> 239.255.255.250:1900
+11/24-12:34:44.306406  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56519 -> 239.255.255.250:1900
+11/24-12:34:44.321305  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56521 -> 239.255.255.250:1900
+11/24-12:34:44.509162  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:54090 -> 239.255.255.250:1900
+11/24-12:34:44.629063  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:53754 -> 239.255.255.250:1900
+11/24-12:34:45.025777  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:45.098470  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.234:56167 -> 239.255.255.250:1900
+11/24-12:34:45.170450  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:60122 -> 239.255.255.250:1900
+11/24-12:34:45.276489  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56515 -> 239.255.255.250:1900
+11/24-12:34:45.290856  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56517 -> 239.255.255.250:1900
+11/24-12:34:45.307387  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56519 -> 239.255.255.250:1900
+11/24-12:34:45.321993  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56521 -> 239.255.255.250:1900
+11/24-12:34:45.327253  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.242:59715 -> 239.255.255.250:1900
+11/24-12:34:45.327364  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.242:59715 -> 255.255.255.255:1900
+11/24-12:34:45.327364  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} fe80::b1f7:1599:3ec:1c42:49731 -> ff02::c:1900
+11/24-12:34:45.460663  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:43387 -> 239.255.255.250:1900
+11/24-12:34:45.511587  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.132:54090 -> 239.255.255.250:1900
+11/24-12:34:45.630145  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:53754 -> 239.255.255.250:1900
+11/24-12:34:46.100484  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:46.172696  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:60122 -> 239.255.255.250:1900
+11/24-12:34:46.277180  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56515 -> 239.255.255.250:1900
+11/24-12:34:46.292127  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56517 -> 239.255.255.250:1900
+11/24-12:34:46.307667  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56519 -> 239.255.255.250:1900
+11/24-12:34:46.322999  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56521 -> 239.255.255.250:1900
+11/24-12:34:46.461760  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:43387 -> 239.255.255.250:1900
+11/24-12:34:46.508074  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:55283 -> 239.255.255.250:1900
+11/24-12:34:46.547924  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:46.630129  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.239:53754 -> 239.255.255.250:1900
+11/24-12:34:46.679192  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:37042 -> 239.255.255.250:1900
+11/24-12:34:46.979308  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:47.174834  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:60122 -> 239.255.255.250:1900
+11/24-12:34:47.277597  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56515 -> 239.255.255.250:1900
+11/24-12:34:47.288797  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+11/24-12:34:47.293829  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56517 -> 239.255.255.250:1900
+11/24-12:34:47.308067  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56519 -> 239.255.255.250:1900
+11/24-12:34:47.324463  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.89:56521 -> 239.255.255.250:1900
+11/24-12:34:47.463480  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:43387 -> 239.255.255.250:1900
+11/24-12:34:47.511883  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:55283 -> 239.255.255.250:1900
+11/24-12:34:47.679799  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:37042 -> 239.255.255.250:1900
+11/24-12:34:47.979388  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:62451 -> 239.255.255.250:1900
+11/24-12:34:48.179244  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.189:60122 -> 239.255.255.250:1900
+11/24-12:34:48.464244  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.155:43387 -> 239.255.255.250:1900
+11/24-12:34:48.520800  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:55283 -> 239.255.255.250:1900
+11/24-12:34:48.680877  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:37042 -> 239.255.255.250:1900
+11/24-12:34:48.904808  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:48.981709  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:62451 -> 239.255.255.250:1900
+11/24-12:34:48.999882  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:58223 -> 239.255.255.250:1900
+11/24-12:34:49.228815  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57893 -> 239.255.255.250:1900
+11/24-12:34:49.258006  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57894 -> 239.255.255.250:1900
+11/24-12:34:49.315460  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:59971 -> 239.255.255.250:1900
+11/24-12:34:49.523855  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.67:55283 -> 239.255.255.250:1900
+11/24-12:34:49.681758  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.58:37042 -> 239.255.255.250:1900
+11/24-12:34:49.886654  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:64309 -> 239.255.255.250:1900
+11/24-12:34:49.983791  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:62451 -> 239.255.255.250:1900
+11/24-12:34:50.002577  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:58223 -> 239.255.255.250:1900
+11/24-12:34:50.231314  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57893 -> 239.255.255.250:1900
+11/24-12:34:50.260163  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57894 -> 239.255.255.250:1900
+11/24-12:34:50.317523  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:59971 -> 239.255.255.250:1900
+11/24-12:34:50.610291  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:54473 -> 239.255.255.250:1900
+11/24-12:34:50.898373  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:64309 -> 239.255.255.250:1900
+11/24-12:34:50.990956  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.218:62451 -> 239.255.255.250:1900
+11/24-12:34:51.007166  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:58223 -> 239.255.255.250:1900
+11/24-12:34:51.233545  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57893 -> 239.255.255.250:1900
+11/24-12:34:51.262303  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57894 -> 239.255.255.250:1900
+11/24-12:34:51.320387  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:59971 -> 239.255.255.250:1900
+11/24-12:34:51.613225  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:54473 -> 239.255.255.250:1900
+11/24-12:34:51.891681  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:64309 -> 239.255.255.250:1900
+11/24-12:34:51.905861  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.136:61672 -> 239.255.255.250:1900
+11/24-12:34:52.007898  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.199:58223 -> 239.255.255.250:1900
+11/24-12:34:52.236895  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57893 -> 239.255.255.250:1900
+11/24-12:34:52.267370  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.2.211:57894 -> 239.255.255.250:1900
+11/24-12:34:52.334366  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.149:59971 -> 239.255.255.250:1900
+11/24-12:34:52.613361  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:54473 -> 239.255.255.250:1900
+11/24-12:34:52.893389  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.140:64309 -> 239.255.255.250:1900
+11/24-12:34:53.613972  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 10.244.3.185:54473 -> 239.255.255.250:1900

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style5.css')}}">
+    <title>IP Details</title>
+</head>
+<body>
+   
+    {% if details %}
+    <table>
+        <tr>
+            <th>Source IP</th>
+            <th>Destination IP</th>
+            <th>Source Port</th>
+            <th>Destination Port</th>
+            <th>Timestamp</th>
+            <th>Length</th>
+            <th>Info</th>
+        </tr>
+        {% for detail in details %}
+        <tr>
+            <td>{{ detail['Source IP'] }}</td>
+            <td>{{ detail['Destination IP'] }}</td>
+            <td>{{ detail['Source Port'] }}</td>
+            <td>{{ detail['Destination Port'] }}</td>
+            <td>{{ detail['Timestamp'] }}</td>
+            <td>{{ detail['Length'] }}</td>
+            <td>{{ detail['Info'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% else %}
+    <p>No communication data found for the selected IPs.</p>
+    {% endif %}
+    <br></br>
+    <footer class="footer mt-auto py-3 bg-light text-dark">
+    
+        <div class="container text-center">
+            <span class="text-muted">PCAP Analyzer © 2023. All rights reserved.</span>
+          </div>
+        </footer>
+</body>
+</html>

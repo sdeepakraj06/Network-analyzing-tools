@@ -1,0 +1,31 @@
+body {
+    background-image: url("black1.jpg");
+    background-size: cover;
+    border-collapse: collapse;
+  }
+
+  h1{
+    color: #f3f6e0;
+    font-weight: bold;
+  }
+
+  table{
+    width:50%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    align-items: center;
+  }
+
+  th,td{
+    border:1px solid #f5f6f4;
+    text-align: left;
+    padding: 10px;
+    color: azure;
+  }
+
+  th{
+    color: #a7e6f1;
+  }
+  
+     
+  

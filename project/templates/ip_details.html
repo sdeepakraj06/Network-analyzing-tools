@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style6.css')}}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">PCAP DATA</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('home')}}">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('redirect_to_Summarization')}}">Summarization</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_protocol_page')}}">Protocol Filter</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_ip_page')}}">IP Filter</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_both_ip')}}">IP Visualization</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('payload_data')}}">Data</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    {% if details %}
+    <table>
+        <tr>
+            <th>Source IP</th>
+            <th>Destination IP</th>
+            <th>Timestamp</th>
+            <th>Length</th>
+            <th>Info</th>
+        </tr>
+        {% for detail in details %}
+        <tr>
+            <td>{{ detail['Source IP'] }}</td>
+            <td>{{ detail['Destination IP'] }}</td>
+            <td>{{ detail['Timestamp'] }}</td>
+            <td>{{ detail['Length'] }}</td>
+            <td>{{ detail['Info'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% else %}
+    <p>No communication data found for the selected IPs.</p>
+    {% endif %}
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style6.css')}}">
+
+</head>
+<body>
+    <br></br>
+<footer class="footer mt-auto py-3 bg-light text-dark">
+
+    <div class="container text-center">
+        <span class="text-muted">PCAP Analyzer © 2023. All rights reserved.</span>
+      </div>
+    </footer>
+</body>
+</html>
+</body>
+</html>

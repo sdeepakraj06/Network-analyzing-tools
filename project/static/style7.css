@@ -1,0 +1,11 @@
+body {
+    background-image: url("black.jpg");
+    background-size: cover;
+    border-collapse: collapse;
+  }
+h1{
+    color:aliceblue;
+}
+p{
+    color:aliceblue;
+}

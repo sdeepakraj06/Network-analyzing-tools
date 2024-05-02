@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Result</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style.css')}}">
+  </head>
+  <body>
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">PCAP DATA</a>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('home')}}">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('redirect_to_Summarization')}}">Summarization</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_protocol_page')}}">Protocol Filter</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_ip_page')}}">IP Filter</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('filter_both_ip')}}">IP Visualization</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary-custom btn-lg mx-3" href="{{url_for('payload_data')}}">Data</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+    <table class="custom-table">
+      <thead>
+        <tr>
+          <th>S.No</th>
+          <th>Timestamp</th>
+          <th>Source IP</th>
+          <th>Destination IP</th>
+          <th>Source Port</th>
+          <th>Destination Port</th>
+          <th>Protocol</th>
+          <th>Length</th>
+          <th>Info</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in result %}
+    <tr>
+      <td>{{ row['S.No'] }}</td>
+      <td>{{ row['Timestamp'] }}</td>
+      <td>{{ row['Source IP'] }}</td>
+      <td>{{ row['Destination IP'] }}</td>
+      <td>{{ row['Source Port'] }}</td>
+      <td>{{ row['Destination Port'] }}</td>
+      <td>{{ row['Protocol'] }}</td>
+      <td>{{ row['Length'] }}</td>
+      <td>{{ row['Info'] }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+ </table>
+</body>
+</html>

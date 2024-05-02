@@ -1,0 +1,113 @@
+body {
+  background-image: url("black.jpg");
+  background-size: cover;
+  border-collapse: collapse;
+}
+h1 {
+    text-align: center;
+    color: #f0eaee;
+    font-weight: bold;
+  }
+  
+  .filter-form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .form-field {
+    margin-bottom: 10px;
+  }
+  
+  .form-field label {
+    display: block;
+    font-weight: bold;
+    color:aliceblue;
+  }
+  
+  .form-field select, .form-field input[type="text"] {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .form-field input[type="submit"] {
+    width: auto;
+    padding: 5px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .count-list {
+    width: 400px;
+    margin: 20px auto;
+  }
+  
+  .count-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .count-list th, .count-list td {
+    padding: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .count-list th {
+    background-color: #f2f2f2;
+  }
+
+.ip-list table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  color:#f2f2f2;
+}
+
+.ip-list th, .ip-list td {
+  border: 1px solid #fcfcfa;
+  padding: 8px;
+  text-align: left;
+  color: rgb(169, 6, 6);
+}
+
+.ip-list th {
+  background-color: #f7f5f5;
+  color: #0c0c0c;
+  font-weight: bold;
+}
+
+
+.ip-list {
+  width: 600px;
+  margin: 20px auto;
+  color: #edfafa;
+}
+
+.filter-form {
+  margin-top: 40px;
+}
+
+.filter-form .form-field {
+  margin-bottom: 10px;
+}
+
+.back-button {
+  margin-top: 20px;
+}
+
+.back-button a {
+  color: #53abf4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.align-left {
+  text-align: left;
+}
+
+
+.ip-list td {
+  color: #FFFFFF; /* Change to white color */
+}
+

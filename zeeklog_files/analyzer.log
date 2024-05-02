@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	analyzer
+#open	2024-04-03-22-32-12
+#fields	ts	cause	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	failure_reason	failure_data
+#types	time	string	string	string	string	string	addr	port	addr	port	string	string
+1700809406.154750	violation	protocol	DNS	CW1ana45QUfZWGUvt6	-	10.244.3.8	5353	224.0.0.251	5353	DNS_Conn_count_too_large	-
+#close	2024-04-03-22-32-13

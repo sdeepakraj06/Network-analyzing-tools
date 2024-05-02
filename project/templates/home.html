@@ -1,0 +1,101 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to PCAP</title>
+ 
+  <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style0.css')}}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">   
+  <style>
+
+
+
+  .custom-button {
+    background-image: -moz-linear-gradient(top, #2c6133, #27cc3f);
+    background-image: -ms-linear-gradient(top, #2c6133, #27cc3f);
+    background-image: -o-linear-gradient(top, #2c6133, #27cc3f);
+    background-image: linear-gradient(to bottom, #2c6133, #27cc3f);
+    
+    color: #ffffff; /* White text */
+    padding: 15px 32px; /* Padding */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 4px 2px;
+    transition-duration: 0.4s; /* Animation duration */
+    cursor: pointer;
+    border-radius: 8px; /* Rounded corners */
+    border: 15px;
+
+}
+
+.custom-button:hover {
+    background-color: #1f5f5f; /* Darker green on hover */
+}
+</style>
+</head>
+<body>
+  <center><h1 class="display-4">Welcome to PCAP</h1></center>
+  <div class="btn-container">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-auto">
+          <div class="custom-file">
+            <input type="file" class="custom-file-input" id="fileInput" multiple>
+            <label class="custom-file-label btn btn-dark btn-lg" for="fileInput">Import File</label>
+          </div>
+        </div>
+        <div class="col-auto">
+          <a href="/display" class="btn btn-outline-success custom-btn btn-lg">Extract</a>
+        </div>
+        <div class="col-auto">
+          <!-- Modified button for Network Monitoring Tools -->
+          <a href="/network_tools" class="btn btn-outline-success custom-btn btn-lg" title="Tools to analyze PCAP file">Network Analysis Tools</a> 
+      </div>
+      
+      </div>
+      
+      <div class="row justify-content-center mt-2">
+        <div class="col">
+          <p id="fileNames"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer mt-auto py-3 bg-light text-dark">
+    <div class="container text-center">
+      <span class="text-muted">PCAP Analyser© 2024. All rights reserved.</span>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    // JavaScript to display the selected file names
+    document.getElementById('fileInput').addEventListener('change', handleFileSelect, false);
+
+    function handleFileSelect(evt) {
+      var fileInput = evt.target;
+      var fileList = '';
+      for (var i = 0; i < fileInput.files.length; i++) {
+        fileList += fileInput.files[i].name + ', ';
+      }
+      // Remove the trailing comma and space
+      fileList = fileList.slice(0, -2);
+
+      // Update the label text with selected file names
+      var label = fileInput.nextElementSibling;
+      label.textContent = fileList;
+
+      // Update the fileNames element with selected file names
+      var fileNamesElement = document.getElementById('fileNames');
+      fileNamesElement.textContent = "Selected files: " + fileList;
+    }
+  </script>
+</body>
+</html>
+

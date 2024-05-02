@@ -1,0 +1,26 @@
+
+
+body {
+    background-image: url("black.jpg");
+    background-size: cover;
+    border-collapse: collapse;
+  }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #edeaea;
+            padding: 8px;
+            text-align: left;
+            color:aliceblue;
+        }
+
+        th {
+            background-color: #d0d9da;
+            color: rgb(13, 14, 14);
+            font-weight: bold;
+        }
+    

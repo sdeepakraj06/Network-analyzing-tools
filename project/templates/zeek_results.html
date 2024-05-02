@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zeek Log Display</title>
+    <style>
+        h1 {
+            margin-top: 30px;
+            font-family: 'Times New Roman', Times, serif;
+            background-color: #6d959e;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        body{
+            background-color:#d8e3e6;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #b1d9e3;
+            /* Table background color */
+            border-radius: 10px;
+        }
+
+        th,
+        td {
+            border: 4px solid #000;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #4a666b;
+            /* Header background color */
+            color: white;
+        }
+
+        /* Alternate row background color */
+        tbody tr:nth-child(even) {
+            background-color: #B2BEB5;
+            
+        }
+
+        .log-btn {
+            background-color: #233a4a;
+            
+            background-image: -moz-linear-gradient(top, #233a4a, #2980b9);
+            background-image: -ms-linear-gradient(top, #233a4a, #2980b9);
+            background-image: -o-linear-gradient(top, #233a4a, #2980b9);
+            background-image: linear-gradient(to bottom, #233a4a, #2980b9);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+            
+        
+        }
+
+        .log-btn:hover {
+            
+            background: #3cb0fd;
+            background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+            background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+            text-decoration: none;
+        }
+
+        .log-btn.clicked {
+        
+        background-image: -webkit-linear-gradient(top, #187aba, #3498db);
+        background-image: -moz-linear-gradient(top, #187aba, #3498db);
+        background-image: -ms-linear-gradient(top, #187aba, #3498db);
+        background-image: -o-linear-gradient(top, #187aba, #3498db);
+        background-image: linear-gradient(to bottom, #187aba, #3498db);
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align: center;">Zeek Log Files</h1>
+    <div class="button-container">
+        {% for log_file in log_files %}
+        <button class="log-btn" data-target="log-content-{{ loop.index }}"><strong>{{ log_file['filename'] }}</strong></button>
+        {% endfor %}
+    </div>
+    <table>
+        <tbody>
+            {% for log_file in log_files %}
+            <tr class="log-content hidden" id="log-content-{{ loop.index }}">
+                <td colspan="2">
+                    <pre>{{ log_file['content'] }}</pre>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <script>
+        // Get all log buttons
+        const logButtons = document.querySelectorAll('.log-btn');
+    
+        // Add click event listener to each button
+        logButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                // Get the data-target attribute value
+                const targetId = button.getAttribute('data-target');
+    
+                // Get the content row by ID
+                const contentRow = document.getElementById(targetId);
+    
+                // Remove the content row from its current position
+                contentRow.parentNode.removeChild(contentRow);
+    
+                // Insert the content row at the top of the table
+                const tableBody = document.querySelector('tbody');
+                tableBody.insertBefore(contentRow, tableBody.firstChild);
+    
+                // Toggle the visibility of the content row
+                contentRow.classList.toggle('hidden');
+    
+                // Toggle button color
+                button.classList.toggle('clicked');
+            });
+        });
+    </script>
+    
+</body>
+
+
+</html>
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snort PCAP Data</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #2e2c2c;
+        }
+    </style>
+</head>
+<body>
+    <!-- <h1>Snort PCAP Data</h1> -->
+    <table>
+        <tr>
+            <th>Timestamp</th>
+            <th>Source IP</th>
+            <th>Source Port</th>
+            <th>Destination IP</th>
+            <th>Destination Port</th>
+            <th>Protocol</th>
+            <th>Length</th>
+        </tr>
+        {% for line in pcap_data.split('\n') %}
+            {% if line %}
+                {% set parts = line.split() %}
+                <tr>
+                    <td>{{ parts[0] }}</td>
+                    <td>{{ parts[2].split('.')[0:4] | join('.') }}</td>
+                    <td>{{ parts[2].split('.')[-1] }}</td>
+                    <td>{{ parts[4].split('.')[0:4] | join('.') }}</td>
+                    <td>{{ parts[4].split('.')[-1] }}</td>
+                    <td>{{ parts[5] }}</td>
+                    <td>{{ parts[-1] }}</td>
+                </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
+</body>
+</html>
